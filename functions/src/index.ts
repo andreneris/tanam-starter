@@ -3,15 +3,17 @@ import * as tanam from 'tanam';
 
 tanam.initializeApp({
     users: {
-        "your.email@gmail.com": "superAdmin",
+        "andreneris@gmail.com": "superAdmin",
     },
     firebaseApp: {
-        apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
-        authDomain: "your-project-id.firebaseapp.com",
-        databaseURL: "https://your-project-id.firebaseio.com",
-        projectId: "your-project-id",
-        storageBucket: "your-project-id.appspot.com",
-        messagingSenderId: "0123456789"
+        apiKey: "AIzaSyAlouIYZ46OgqKO5iU5Qs1U8D-dpMTx0_o",
+        authDomain: "lowcodebr.firebaseapp.com",
+        databaseURL: "https://lowcodebr-default-rtdb.firebaseio.com",
+        projectId: "lowcodebr",
+        storageBucket: "lowcodebr.appspot.com",
+        messagingSenderId: "850700798725",
+        appId: "1:850700798725:web:cfb3fd9f3c9b952c88c56c",
+        measurementId: "G-1WFHXCTY8F"
     },
 });
 
